@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;TypeScript+%26+JavaScript+Expert;E-commerce+Solutions+Builder;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
-
+****
 ## 🚀 About Me
 
 I'm a passionate **Full-Stack Developer** specializing in modern web technologies. I love building scalable applications that solve real-world problems and provide exceptional user experiences.
@@ -50,12 +50,12 @@ I'm a passionate **Full-Stack Developer** specializing in modern web technologie
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitris-dogiamas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitris-dogiamas&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitrisdogiamas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrisdogiamas&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimitris-dogiamas&theme=tokyonight" alt="dimitris-dogiamas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimitrisdogiamas&theme=tokyonight" alt="dimitrisdogiamas" />
 </div>
 
 ## 🏆 Featured Projects
@@ -80,7 +80,7 @@ A comprehensive full-stack e-commerce solution featuring:
 - Integrated real-time features and notifications
 - Deployed production-ready application
 
-[🔗 View Project](https://github.com/dimitris-dogiamas/nextbuy) | [🚀 Live Demo](https://nextbuy-demo.com)
+[🔗 View Project](https://github.com/dimitrisdogiamas/nextbuy) | [🚀 Live Demo](https://nextbuy-demo.com)
 
 ---
 
@@ -122,17 +122,17 @@ const developerMindset = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimitris-dogiamas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimitris.dogiamas@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://dimitris-dogiamas.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimitris-dogiamas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimitrisdogiamas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimdog03@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://dimitrisdogiamas.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimitrisdogiamas)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dimitris-dogiamas&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dimitrisdogiamas&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
