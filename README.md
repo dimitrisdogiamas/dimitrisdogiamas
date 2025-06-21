@@ -8,7 +8,7 @@
 
 I'm a passionate **Full-Stack Developer** specializing in modern web technologies. I love building scalable applications that solve real-world problems and provide exceptional user experiences.
 
-- 🔭 I'm currently working on **NextBuy** - A comprehensive e-commerce platform
+- 🔭 I'm currently working on **fud** - A mystery till something comes up . Be ready!!!!
 - 🌱 I'm constantly learning and exploring new technologies
 - 💡 I enjoy creating solutions that make a difference
 - 🎯 Goal: Building impactful web applications with clean, maintainable code
@@ -124,7 +124,7 @@ const developerMindset = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-dogiamas-0665ba23a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimdog03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://dimitrisdogiamas.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-seven-liart-70.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimitrisdogiamas)
 
 </div>
