@@ -80,7 +80,7 @@ A comprehensive full-stack e-commerce solution featuring:
 - Integrated real-time features and notifications
 - Deployed production-ready application
 
-[🔗 View Project](https://github.com/dimitrisdogiamas/nextbuy) | [🚀 Live Demo](https://nextbuy-demo.com)
+[🔗 View Project](https://github.com/dimitrisdogiamas/nextbuy)
 
 ---
 
