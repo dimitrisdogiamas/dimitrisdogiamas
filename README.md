@@ -16,8 +16,8 @@ I'm a passionate **Full-Stack Developer** specializing in modern web technologie
 ## 🛠️ Technology Stack
 
 ### **Frontend Development**
-![React]
-![Next.js]
+![React](https://react.dev/)
+![Next.js] []
 ![TypeScript]
 ![JavaScript]
 ![Material-UI]
